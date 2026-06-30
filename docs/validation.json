@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/wyx/Documents/codex_pets/maodie-run/final/spritesheet.webp",
+  "file": "/Users/wyx/Documents/maodie-github/pets/maodie/spritesheet.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "width": 1536,
@@ -462,42 +462,42 @@
       "row": 8,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 24418
+      "nontransparent_pixels": 24866
     },
     {
       "state": "review",
       "row": 8,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 26923
+      "nontransparent_pixels": 23852
     },
     {
       "state": "review",
       "row": 8,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 21542
+      "nontransparent_pixels": 23775
     },
     {
       "state": "review",
       "row": 8,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 29535
+      "nontransparent_pixels": 25250
     },
     {
       "state": "review",
       "row": 8,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 22521
+      "nontransparent_pixels": 24977
     },
     {
       "state": "review",
       "row": 8,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 24107
+      "nontransparent_pixels": 25571
     },
     {
       "state": "review",
